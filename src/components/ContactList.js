@@ -27,6 +27,7 @@ const users = [
       name: 'Juanita Phillips',
       avatar: 'https://randomuser.me/api/portraits/women/55.jpg',
       online: true
+      
     }
   ];
 
